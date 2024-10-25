@@ -1,6 +1,6 @@
 ## ⭐ AI-HACKATHON
 > 샘플입니다~!~!
-</br></br>
+</br>
 
 ## 🗓️ 개발 기간
 
@@ -8,5 +8,3 @@
 </br></br>
 
 ## 💻 System Architecture
-> 샘플입니다~!~!(사진)
-</br></br>
