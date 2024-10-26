@@ -1,12 +1,71 @@
-## Hi there 👋
+## 🎤 너의 목소리가 들려
 
-<!--
+![메인페이지](/profile/images/mainpage.png)
+> AI 기반으로 TTS, STT 기능 제공
+</br></br>
 
-**Here are some ideas to get you started:**
+## 🏆 수상
+</br></br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🗓️ 개발 기간
+
+* 2024.10.25 ~ 2024.10.26
+</br></br>
+
+## 💻 Architecture
+
+![시스템 아키텍처](/profile/images/architecture.png)
+</br></br>
+
+## 👀 Contributors 
+
+<div align='center'>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">FE</th>
+<th align="center">AI</th>
+<th align="center">FE</th>
+<th align="center">AI</th>
+<th align="center">FE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" style="padding: 10px;">
+  <a href="https://github.com/Dwisgolmog" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="/profile/images/avatars/김동현.png" alt="김동현" width="150" height="200" style="max-width: 100%;">
+  </a>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://github.com/MinSang22Kim" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="/profile/images/avatars/김민상.png" alt="김민상" width="150" height="200" style="max-width: 100%;">
+  </a>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://github.com/kimsunghyun030217" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="/profile/images/avatars/김성현.png" alt="김성현" width="150" height="200" style="max-width: 100%;">
+  </a>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://github.com/HelloSJ00" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="/profile/images/avatars/오승준.png" alt="오승준" width="150" height="200" style="max-width: 100%;">
+  </a>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://github.com/YourUsername5" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="/profile/images/avatars/유예린.png" alt="유예린" width="150" height="200" style="max-width: 100%;">
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">김동현</td>
+<td align="center">김민상</td>
+<td align="center">김성현</td>
+<td align="center">오승준</td>
+<td align="center">유예린</td>
+</tr>
+</tbody>
+</table>
+</div>
