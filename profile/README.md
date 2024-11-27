@@ -5,7 +5,7 @@
 </br>
 
 ## 🏆 수상 : 우수상
-(추후 사진 추가 예정)
+![우수상 상장](/profile/results/prize.jpg)
 </br></br>
 
 ## 🗓️ 개발 기간
