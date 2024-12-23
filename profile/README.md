@@ -21,8 +21,12 @@
 
 ## 🏆 Award
 
-**우수상 (3등)**  
+<details>
+<summary>우수상 (생성형 AI 부문 3등)</summary>
+
 ![Award](/profile/images/award.png)
+
+</details>
 
 ---
 
